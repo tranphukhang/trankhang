@@ -1,0 +1,16 @@
+
+.hero{
+    background-color:#83a3c7;
+    background-image: url("../image/spkt-scene.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:100px;
+    padding-left:100px;
+}
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 100px;
+  }
