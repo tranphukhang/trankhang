@@ -1,0 +1,9 @@
+.img{
+    height: 300px;
+    width: 200px;
+    background-repeat: no-repeat;
+
+}
+.circle{
+    clip-path: circle(50% at 50% 50%);
+}
